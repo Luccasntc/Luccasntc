@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript
 
 ### Github Statistics
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Luccasntc&show_icons=true&theme=tokyonight" alt="Lucas Machado github stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccasntc&exclude_repo=processos,createLabb&langs_count=7&layout=compact&theme=tokyonight" alt="Top Langs" width="330"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Luccasntc&show_icons=true&theme=tokyonight" alt="Lucas Machado github stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccasntc&exclude_repo=processos,createLabb&langs_count=7&layout=compact&theme=tokyonight" alt="Top Langs" width="400"/></p>
 
 ## 
 
