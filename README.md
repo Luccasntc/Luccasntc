@@ -1,7 +1,7 @@
 ### Opa! eu sou o Lucas Machado
 
 - 🔭 Trabalho com front-end
-- 🌱 Estudando Typescript
+- 🌱 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/Luccasntc">
