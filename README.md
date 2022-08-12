@@ -3,11 +3,8 @@
 - 🔭 Trabalho com front-end
 - 🌱 Estudando JavaScript
 
-<div align="center">
-  <a href="https://github.com/Luccasntc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luccasntc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccasntc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### Github Statistics
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=itmoura&show_icons=true&theme=tokyonight" alt="Ítalo Moura github stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmoura&exclude_repo=processos,createLabb&langs_count=7&layout=compact&theme=tokyonight" alt="Top Langs" width="330"/></p>
 
 ## 
 
