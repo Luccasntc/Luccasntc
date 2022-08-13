@@ -3,6 +3,8 @@
 - 🔭 Trabalho com front-end
 - 🌱 Estudando JavaScript
 
+---
+
 ## Github Statistics
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Luccasntc&show_icons=true&theme=tokyonight" alt="Lucas Machado github stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccasntc&exclude_repo=processos,createLabb&langs_count=7&layout=compact&theme=tokyonight" alt="Top Langs" width="330"/></p>
 
@@ -18,7 +20,5 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ---
