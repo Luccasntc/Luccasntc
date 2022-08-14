@@ -1,7 +1,7 @@
 ## Hello 👋, I'm Lucas Machado
 
-- 🔭 Trabalho com front-end
-- 🌱 Estudando JavaScript
+- 🔭 I work with front-end
+- 🌱 Constantly studying
 
 ---
 
