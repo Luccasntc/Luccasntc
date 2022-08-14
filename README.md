@@ -1,4 +1,4 @@
-## Opa! eu sou o Lucas Machado
+## Hello 👋, I'm Lucas Machado
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando JavaScript
